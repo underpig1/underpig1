@@ -1,6 +1,6 @@
 ### hey there :wave:
 
-i mess around a lot
+i do things
 
 - :computer: JavaScript, Python, C, C++, C#, other web stuff
 - :bulb: web dev, machine learning, mobile apps, design, desktop apps
