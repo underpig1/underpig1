@@ -2,7 +2,7 @@
 
 i do things
 
-- :computer: JavaScript, Python, C, C++, C#, other web stuff, PowerShell, Bash/Batch, Swift
+- :computer: JavaScript, Python, C, C++, C#, HTML, CSS, PowerShell, Bash/Batch, Swift
 - :bulb: web dev, machine learning, mobile apps, design, desktop apps, physics, research
 
 my recent stuff to check out
