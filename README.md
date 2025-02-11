@@ -2,8 +2,8 @@
 
 i do things
 
-- :computer: JavaScript, Python, C, C++, C#, other web stuff
-- :bulb: web dev, machine learning, mobile apps, design, desktop apps
+- :computer: JavaScript, Python, C, C++, C#, other web stuff, PowerShell, Bash/Batch, Swift
+- :bulb: web dev, machine learning, mobile apps, design, desktop apps, physics, research
 
 my recent stuff to check out
 - :rocket: [Octos - HTML live wallpaper engine](https://github.com/underpig1/octos) (desktop app)
