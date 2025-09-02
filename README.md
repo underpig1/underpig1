@@ -1,6 +1,6 @@
 ### Hey there :wave:
 
-- :computer: JavaScript, Python, C, C++, C#, HTML, CSS, PowerShell, Bash/Batch, Swift
+- :computer: JavaScript, Python, C, C++, C#, HTML, CSS, PowerShell, Bash/Batch, Swift, PowerShell, SQL, Scheme, Java
 - :bulb: web dev, machine learning, mobile apps, design, desktop apps, physics, research
 
 Check out some of my recent projects:
